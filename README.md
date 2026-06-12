@@ -1,16 +1,42 @@
-## Hi there 👋
+### 👋 你好，我是司震 (Sizhen) | Agent 工程师
 
-<!--
-**foxpup11/foxpup11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **📍 现居**：河南 · 郑州 | **🎓 毕业去向**：2027届硕士（灾害信息处理技术）
+> **📧 邮箱**：sizhen02621@gmail.com | **📱 电话**：184-3825-2515
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ 技术标签
+`Python` `LangGraph` `Agent` `RAG` `LLM` `Transformers` `FastAPI` `Docker` `ONNX` `Qwen`
+
+---
+
+### 🚀 关于我
+我是一名专注于 **AI Agent 与垂直领域大模型** 的开发者与研究者。我的核心竞争力在于将前沿的 AI 算法（如 LLM、多模态）转化为稳定、高效的工程应用。
+
+*   **垂直领域专精**：深耕 **地震灾害信息处理** 领域，具备独特的“行业知识 + AI 技术”双重视角，致力于解决复杂场景下的智能决策问题。
+*   **全链路开发**：具备从底层模型微调（LoRA）、推理优化（ONNX/边缘端）到上层应用开发（Agent工作流、RAG知识库）的全栈能力。
+*   **工程落地经验**：熟悉生产环境部署（Docker/Linux），在智慧城市、工业文档解析及应急管理系统中拥有丰富的实战经验。
+
+---
+
+### 📊 技能雷达
+| 核心方向 | 关键技术与工具 |
+| :--- | :--- |
+| **Agent 开发** | LangGraph 工作流编排、Tool/Function Calling、DAG 任务调度、C#与Python跨语言通信 |
+| **RAG 与检索** | 向量数据库、混合检索策略、多模态 RAG、文档解析（OCR/PDF）、重排序（Rerank） |
+| **模型优化** | Hailo-8/RK3588 边缘端部署、模型量化、推理加速、Flask/FastAPI 服务封装 |
+| **数据科学** | 贝叶斯网络（SCI Q1一作）、时序预测、XGBoost、SCI论文撰写与算法复现 |
+
+---
+
+### 🏆 近期动态 
+*   **🏢 实习**：目前就职于 **联通（河南）产业互联网有限公司**，负责 12345 社情通项目的舆情分析与 Agent 模块开发。
+*   **🎓 研究**：在地震预测领域提出 ESSAP 拓扑学习算法（发表于 SCI 一区），并拥有两项软著。
+*   **🏆 赛事**：担任第一届全国应急管理大模型智能体创新大赛赛事组成员。
+
+---
+
+### 📈 动态统计
+<!-- 言语间透露出你对技术的热爱与严谨 -->
+*   **代码风格**：追求简洁与高可维护性，注重算法的时间与空间复杂度优化。
+*   **开源理念**：乐于分享技术笔记，希望能通过 GitHub 结识更多 AI 领域的同行者。
